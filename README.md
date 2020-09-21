@@ -9,4 +9,4 @@
 			$('.animenu').removeClass("sticky");
 		}
 	});
-</script
+</script>
